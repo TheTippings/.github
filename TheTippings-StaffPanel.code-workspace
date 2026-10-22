@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"name": ".github",
+			"path": "."
+		},
+		{
+			"name": "TheTippings-API",
+			"path": "../TheTippings-API"
+		},
+		{
+			"name": "TheTippings-StaffPanel",
+			"path": "../TheTippings-StaffPanel"
+		},
+		{
+			"name": "TheTippings-Website",
+			"path": "../TheTippings-Website"
+		},
+		{
+			"name": "TheTippings-Discord",
+			"path": "../TheTippings-Discord"
+		},
+		{
+			"name": "TheTippings-RadioBot",
+			"path": "../TheTippings-RadioBot"
+		}
+	]
+}
