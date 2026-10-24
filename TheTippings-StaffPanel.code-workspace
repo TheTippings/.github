@@ -13,16 +13,21 @@
 			"path": "../TheTippings-StaffPanel"
 		},
 		{
-			"name": "TheTippings-Website",
-			"path": "../TheTippings-Website"
-		},
-		{
 			"name": "TheTippings-Discord",
 			"path": "../TheTippings-Discord"
 		},
 		{
 			"name": "TheTippings-RadioBot",
 			"path": "../TheTippings-RadioBot"
+		},
+		{
+			"path": "../TheTippings-Website"
+		},
+		{
+			"path": "../TheTippings-EmailDashboard"
+		},
+		{
+			"path": "../TheTippings-EmailServer"
 		}
 	]
 }
